@@ -1,4 +1,4 @@
-# xylophone
+# Xylophone - A Flutter Project
 
 A new Flutter project.
 
